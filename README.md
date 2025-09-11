@@ -2,7 +2,7 @@
 
  🫡 I'm Umutcan Baş. <br>
  📱 I'm a curious and open minded mobile application developer. <br>
- 📚 I'm full time learner . <br>
+ 📚 I'm currently learning **React** , **React Native** , **JavaScript** and **TypeScript** <br>
 
 
 
